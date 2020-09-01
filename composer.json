@@ -1,5 +1,8 @@
 {
-    "require": {
-        "bunq/sdk_php": "^0.12.4"
-    }
+  "name": "sebastix/bunq-request",
+  "description": "Forked bunq request library",
+  "type": "project",
+  "require": {
+      "bunq/sdk_php": "^0.12.4"
+  }
 }
